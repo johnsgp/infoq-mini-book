@@ -106,7 +106,8 @@ pdf.shouldRunAfter html
 epub.shouldRunAfter pdf
 
 //task all(dependsOn: ['html', 'pdf', 'epub', 'mobi'])
-task all(dependsOn: ['html', 'epub', 'mobi'])
+//task all(dependsOn: ['html', 'epub', 'mobi'])
+task all(dependsOn: ['html', 'epub', 'pdf'])
 
 defaultTasks 'all'
 

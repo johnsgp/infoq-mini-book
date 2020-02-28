@@ -1,2 +1,23 @@
 [[chapter-1]]
 = Chapter 1
+
+[.thumb]
+.Image.
+image::rubik.png[scaledwidth=10%]
+
+[.thumb]
+.Image.
+image::rubik.png[scaledwidth=10%]
+
+
+[source,java]
+.Listing 2.1. `Rubik`
+----
+class Rubik {}
+----
+
+[source,java]
+.Listing 2.2. `Rubik`
+----
+class Rubik {}
+----
