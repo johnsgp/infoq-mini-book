@@ -3,11 +3,11 @@
 
 [.thumb]
 .Image.
-image::rubik.png[scaledwidth=10%]
+image::rubik.png[caption="Figure 1. ",scaledwidth=10%]
 
 [.thumb]
 .Image.
-image::rubik.png[scaledwidth=10%]
+image::rubik.png[caption="Figure 2. ",scaledwidth=10%]
 
 
 [source,java]

@@ -40,7 +40,8 @@ def attrs = ['sourcedir'         : '../../../main/webapp',
              'icons'             : 'font',
              'sectanchors'       : '',
              'idprefix'          : '',
-             'idseparator'       : '-']
+             'idseparator'       : '-',
+             '!listing-caption'  : '']
 
 tasks.withType(AsciidoctorTask) { task ->
     attributes attrs
