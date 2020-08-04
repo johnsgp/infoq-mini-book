@@ -11,13 +11,13 @@ image::rubik.png[scaledwidth=10%]
 
 
 [source,java]
-.Listing 1.1. `Rubik`
+.Rubik
 ----
 class Rubik {}
 ----
 
 [source,java]
-.Listing 1.2. `Rubik`
+.Rubik's cube
 ----
 class Rubik {}
 ----
